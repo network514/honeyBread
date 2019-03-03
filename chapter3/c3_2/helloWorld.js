@@ -1,6 +1,6 @@
 function helloWorld() {
     console.log('Hello World');
-    helloNod();
+    helloNode();
 }
 function helloNode() {
     console.log('Hello Node');
